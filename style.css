@@ -1,0 +1,17 @@
+body {
+    font-family:"Trebuchet MS";
+    font-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.startButton {
+    background-color: burlywood;
+}
+
+.resetButton {
+    color: white;
+    background-color: black;
+}
